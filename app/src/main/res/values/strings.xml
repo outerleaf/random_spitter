@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">random_spitter</string>
+    <string name="titlebox">Random Spitter</string>
+    <string name="versionInfo_box">Version 1.0</string>
+    <string name="button1">Spit Deon</string>
+    <string name="button2">Spit Ray</string>
+    <string name="button3">Spit the Numbers</string>
+    <string name="button4">Spit it All</string>
+    <string name="button5">Clear</string>
+    <string name="outputBox">Here is your Output:\n</string>
+</resources>
